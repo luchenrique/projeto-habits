@@ -12,3 +12,7 @@ _____________________
 - Fastify 
 - Zod 
 - Dayjs
+
+<div align="center">
+<img src="https://github.com/luchenrique/projeto-habits/issues/1#issue-1644925646" width="300px" /> 
+</div>
